@@ -1,0 +1,492 @@
+@charset "UTF-8";
+body {
+    padding: 0;
+    margin: 0;
+    background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,1.00) 0.12%,rgba(20,36,156,1.00) 96.37%,rgba(24,43,185,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(0,0,0,1.00) 0.12%,rgba(20,36,156,1.00) 96.37%,rgba(24,43,185,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(0,0,0,1.00) 0.12%,rgba(20,36,156,1.00) 96.37%,rgba(24,43,185,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(0,0,0,1.00) 0.12%,rgba(20,36,156,1.00) 96.37%,rgba(24,43,185,1.00) 100%);
+}
+wrapper {
+    margin: 0 auto;
+    display: block;
+    background-color: #000000;
+    width: 1366px;
+}
+.merch {
+    margin-left: 282px;
+    padding-top: 0px;
+}
+
+.shirt1 {
+    padding-left: 20px;
+}
+.pricing {
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-size: 42px;
+    color: #FFFFFF;
+    display: inline-block;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    position: relative;
+    bottom: -382px;
+    left: 122px;
+    border: thick solid #FFFFFF;
+    border-radius: 10px;
+}
+.pricing5 {
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-size: 42px;
+    color: #FFFFFF;
+    display: inline-block;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    position: relative;
+    bottom: -382px;
+    left: 606px;
+    border: thick solid #FFFFFF;
+    border-radius: 10px;
+}
+.pricing2 {
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-size: 42px;
+    color: #FFFFFF;
+    display: inline-block;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    position: relative;
+    bottom: -788px;
+    left: -9px;
+    border-radius: 10px;
+    border: thick solid #FFFFFF;
+}
+.pricing6 {
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-size: 42px;
+    color: #FFFFFF;
+    display: inline-block;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    position: relative;
+    bottom: -788px;
+    left: 470px;
+    border-radius: 10px;
+    border: thick solid #FFFFFF;
+}
+.pricing3 {
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-size: 42px;
+    color: #FFFFFF;
+    display: inline-block;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    position: relative;
+    bottom: -1193px;
+    left: -111px;
+    border-radius: 10px;
+    border: thick solid #FFFFFF;
+}
+.pricing4 {
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-size: 42px;
+    color: #FFFFFF;
+    display: inline-block;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    position: relative;
+    bottom: -1193px;
+    left: 702px;
+    border-radius: 10px;
+    border: thick solid #FFFFFF;
+}
+
+.merchpage {
+    color: #FFFFFF;
+    font-family: "Finger Paint", sans-serif;
+    font-size: 87px;
+    margin-left: 555px;
+    padding-bottom: 0px;
+    margin-bottom: -194px;
+}
+.blogpage {
+    color: #FFFFFF;
+    font-family: "Finger Paint", sans-serif;
+    font-size: 87px;
+    margin-left: 555px;
+    padding-bottom: 0px;
+    margin-bottom: -194px;
+}
+.blogs {
+    margin-top: 259px;
+}
+
+
+
+.hood1 {
+    padding-top: 0px;
+    padding-right: 38px;
+
+}
+.hood2 {
+    padding-right: 38px;
+}
+.hood3 {
+    padding-right: 38px;
+}
+
+
+
+
+header {
+    color: #FFFFFF;
+    height: 100px;
+    font-size: 100px;
+    text-align: center;
+    font-family: "Finger Paint", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: relative;
+    top: -26px;
+}
+
+}
+footer {
+    color: #FFFFFF;
+    padding: 16px;
+    font-size: 12px;
+}
+nav {
+    background-color: rgba(96,153,177,0.18);
+}
+nav ul {
+    padding: 0;
+    margin: 0;
+}
+ul a li {
+    padding: 16px 24px;
+    color: rgba(255,255,255,1.00);
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    display: inline-block;
+    font-size: 33px;
+}
+ul a li:hover {
+    background-image: -webkit-linear-gradient(270deg,rgba(144,0,255,1.00) 0%,rgba(61,95,242,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(144,0,255,1.00) 0%,rgba(61,95,242,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(144,0,255,1.00) 0%,rgba(61,95,242,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(144,0,255,1.00) 0%,rgba(61,95,242,1.00) 100%);
+}
+.front{
+	opacity: 50%;
+}.Tour {
+    color: #FFFFFF;
+    padding: 0;
+    position: relative;
+    margin: 0;
+    left: 642px;
+    display: inline-block;
+    top: 680px;
+    font-size: 50px;
+    border-style: solid;
+    border-color: #0005FF;
+}
+.border {
+    display: inline-block;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    padding-left: 0px;
+    margin-left: -73px;
+    margin-top: -97px;
+    float: left;
+}
+.news_image {
+    display: inline;
+    position: relative;
+    right: -565px;
+    border-style: none;
+
+
+
+}
+.news {
+    color: #FFFFFF;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    position: relative;
+    padding-top: 0px;
+    top: -50px;
+    border-style: groove;
+    border-radius: 10px;
+    margin-right: 948px;
+    left: 38px;
+}
+.news2 {
+    margin-right: 948px;
+    position: relative;
+    color: #FFFFFF;
+    border-radius: 10px;
+    border-style: groove;
+    top: -558px;
+    left: 57px;
+}
+
+.skimask {
+    position: relative;
+    margin-right: -313px;
+    top: -26px;
+    right: -53px;
+    border-style: groove;
+    border-width: thick;
+    left: 85px;
+}
+.carpet {
+    position: relative;
+    top: -498px;
+    left: -792px;
+    border-style: groove;
+}
+.store {
+    color: #FFFFFF;
+    position: relative;
+    font-size: 87px;
+    margin-bottom: -227px;
+    padding-left: 0px;
+    left: 609px;
+    margin-right: 652px;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+
+.cover {
+    margin-bottom: 302px;
+    position: relative;
+    left: 186px;
+
+}
+.members {
+
+}
+.vibes {
+    margin-bottom: 300px;
+    position: relative;
+    left: 182px;
+}
+.store2 {
+    padding-left: 0px;
+    padding-bottom: 311px;
+    padding-top: 170px;
+    margin-left: -47px;
+
+}
+.price1 {
+    color: #FFFFFF;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    position: relative;
+    top: 526px;
+    left: 217px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    display: inline-block;
+    padding-right: 42px;
+    font-size: 42px;
+}
+.price2 {
+    color: #FFFFFF;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    position: relative;
+    top: 333px;
+    left: 188px;
+    /* [disabled]padding-bottom: 0px; */
+    /* [disabled]padding-top: 0px; */
+    display: inline-block;
+    padding-right: 42px;
+    font-size: 42px;
+}
+.price3 {
+    color: #FFFFFF;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    position: relative;
+    top: 849px;
+    left: -155px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    display: inline-block;
+    padding-right: 42px;
+    font-size: 42px;
+    padding-left: 0px;
+}
+.store3 {
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+    padding-bottom: 1px;
+}
+
+.price4 {
+    color: #FFFFFF;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    position: relative;
+    top: 1016px;
+    left: -705px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    display: inline-block;
+    padding-right: 42px;
+    font-size: 42px;
+}
+
+.price5 {
+    color: #FFFFFF;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    position: relative;
+    top: 877px;
+    left: 846px;
+    /* [disabled]padding-bottom: 0px; */
+    /* [disabled]padding-top: 0px; */
+    display: inline-block;
+    padding-right: 42px;
+    font-size: 42px;
+}
+.price6 {
+    color: #FFFFFF;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    position: relative;
+    top: 712px;
+    left: 800px;
+    /* [disabled]padding-bottom: 0px; */
+    /* [disabled]padding-top: 0px; */
+    display: inline-block;
+    padding-right: 42px;
+    font-size: 42px;
+}
+.price7 {
+    color: #FFFFFF;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    position: relative;
+    top: 545px;
+    left: 641px;
+    /* [disabled]padding-bottom: 0px; */
+    /* [disabled]padding-top: 0px; */
+    display: inline-block;
+    padding-right: 42px;
+    font-size: 42px;
+}
+.price8 {
+    color: #FFFFFF;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    position: relative;
+    top: 338px;
+    left: 260px;
+    /* [disabled]padding-bottom: 0px; */
+    /* [disabled]padding-top: 0px; */
+    display: inline-block;
+    padding-right: 42px;
+    font-size: 42px;
+}
+
+
+.enough {
+}
+.video {
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    margin-bottom: 375px;
+    margin-left: 400px;
+    display: block;
+
+
+
+
+
+
+}
+.video2 {
+    padding-left: 0px;
+    padding-bottom: 0px;
+    margin-left: 400px;
+
+
+
+}
+.background2 {
+    background-image: url(Xxxtentaction-2.jpg);
+    background-size: cover;
+    -webkit-box-shadow: 0px 0px;
+    box-shadow: 0px 0px;
+	
+
+}
+
+.videopage {
+    color: #FFFFFF;
+   font-family: "Finger Paint", sans-serif;
+    font-size: 87px;
+    margin-left: 555px;
+}
+.background1 {
+    background-image: url(xxxtentacion-concert.jpg);
+    background-size: cover;
+	
+}
+.concertpage {
+    font-family: "Finger Paint", sans-serif;
+    color: #FFFFFF;
+    padding-left: 529px;
+    font-size: 87px;
+}
+.cocnertlist {
+    color: #FFFFFF;
+    font-family: "Finger Paint", sans-serif;
+    font-size: 31px;
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 10px;
+    border: thick solid #7D69FF;
+}
+.dates {
+    color: #FFFFFF;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-size: 31px;
+    margin-left: 313px;
+    padding-left: 471px;
+    position: relative;
+    top: -548px;
+    margin-bottom: 52px;
+    right: -413px;
+}
+.background3 {
+    background-image: url(it-wasnt-enough-xxxtentaction.jpg);
+    background-size: cover;
+}
+.photopage {
+    color: #FFFFFF;
+    font-family: "Finger Paint", sans-serif;
+    font-size: 87px;
+    padding-left: 560px;
+}
+.images {
+    padding-left: 151px;
+    margin-left: 28px;
+    margin-bottom: 207px;
+    padding-top: 138px;
+}
+.privacy {
+    font-family: "Sofia Sans", sans-serif;
+    font-optical-sizing: auto;
+
+
+
+
+  font-weight: <weight>;
+    font-style: normal;
+    font-size: 51px;
+    color: #FFFFFF;
+    text-align: center;
+}
